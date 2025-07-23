@@ -1,7 +1,7 @@
 
 **Billy here! 🦾**
 
-I'm an engineer interested in building, fast, responsive scalable web apps with JavaScript.
+I'm an engineer interested in building, fast, responsive and scalable web apps with JavaScript.
 
 🌱 I’m currently working a lot with NEXT.JS.
 
