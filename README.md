@@ -14,9 +14,3 @@ Studied Computer science at Uni.
 📧 - billyonbilly.work@gmail.com
 
 Languages and Tools I use: C JavaScript Python React CSS3
-
-**GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billyonbilly-ai&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="billyonbilly-ai's GitHub Stats" />
-
-
