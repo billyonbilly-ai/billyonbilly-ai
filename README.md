@@ -10,4 +10,4 @@ Studied Computer science at Uni.
 
 📧 - billyonbilly.work@gmail.com
 
-Languages and Tools I use: JavaScript Python React CSS3
+Languages and Tools I use: JavaScript Python React TailwindCSS
