@@ -1,8 +1,8 @@
-I'm a software engineer interested in building, fast, responsive and scalable web apps with JavaScript.
+My name's Billy and I love solving problems with code.
 
-🌱 I’m currently working a lot with NEXT.JS.
+🌱 I’m currently working a lot with Next.js.
 
-Studied Computer science at Uni.
+Computer science grad.
 
 **Contact Me**
 
@@ -10,4 +10,4 @@ Studied Computer science at Uni.
 
 📧 - billyonbilly.work@gmail.com
 
-Languages and Tools I use: JavaScript Python React TailwindCSS
+Languages and Tools I use: JavaScript Python React Next.js TailwindCSS
