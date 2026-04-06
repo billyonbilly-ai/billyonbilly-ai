@@ -1,4 +1,4 @@
-My name's Billy and I love solving problems with code.
+My name's Godgift and I love solving problems with code.
 
 🌱 I’m currently working a lot with Next.js.
 
