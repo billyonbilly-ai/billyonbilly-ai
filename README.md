@@ -1,4 +1,4 @@
-<h2>Godgift</h2>
+<h2>Godgift.</h2>
 
 <p>
   engineering fast & scalable web services with <b>Javascript</b> & <b>Python</b>.<br>
