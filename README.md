@@ -6,8 +6,7 @@
 </p>
 
 <p>
-  🎓 computer science grad.<br>
-  
+  ▫️ computer science grad.<br>
   ▫️ chess & music enthusiast :)
 </p>
 
