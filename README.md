@@ -1,13 +1,21 @@
-My name's **Godgift** and I love solving problems with code.
+<h2>Godgift</h2>
 
-🌱 I’m currently working a lot with Next.js.
+<p>
+  engineering fast & scalable web services with <b>Javascript</b> & <b>Python</b>.<br>
+  curiously dabbling in <b>C</b> as well.
+</p>
 
-Computer science grad.
+<p>
+  🎓 computer science grad.<br>
+  ♟️ chess & music enthusiast :)
+</p>
 
-**Contact Me**
+<h3>Languages</h3>
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=billyonbilly-ai&layout=compact&theme=transparent" height="150" />
+</p>
 
-🔗 - https://twitter.com/billyonbilly
-
-📧 - billyonbilly.work@gmail.com
-
-Languages and Tools I use: JavaScript Python React Next.js TailwindCSS
+<h3>Contact me</h3>
+<p>
+  🔗 <b>x:</b> <a href="https://twitter.com/billyonbilly">@billyonbilly</a><br>
+</p>
